@@ -14,7 +14,7 @@ Description of your project.
 ## Requirements
 ```
 import operator
-#for itemgetter(...) (day4)
+#for itemgetter() (day4)
 
 ```
 ---
